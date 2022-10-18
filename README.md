@@ -12,15 +12,20 @@
 
 I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in GeoPhysics. I have a great love for web development & astronomy! 
 
+
+<!-- [johncoxresume.pdf](https://github.com/programwithjohn/programwithjohn/files/9815334/johncoxresume.pdf) -->
 <p align="left">
+  <a href="https://github.com/programwithjohn/programwithjohn/files/9815334/johncoxresume.pdf" target="_blank">
+    <img src="https://img.shields.io/badge/Download-Resume-9300e8?style=plastic&logo=paper&logoColor=black" alt="Résumé">
+  </a>
   <a href="https://github.com/programwithjohn?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repos-9300e8?style=for-the-badge&logo=github&logoColor=black" alt="Repository">
+    <img src="https://img.shields.io/badge/Repos-9300e8?style=plastic&logo=github&logoColor=black" alt="Repository">
   </a>
   <a href="https://www.linkedin.com/in/johncox-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9300e8?style=for-the-badge&logo=linkedin&logoColor=black" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-9300e8?style=plastic&logo=linkedin&logoColor=black" alt="LinkedIn">
   </a>
   <a href="mailto:john.cox0321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-9300e8?style=for-the-badge&logo=gmail&logoColor=black" alt="Email">
+    <img src="https://img.shields.io/badge/Email-9300e8?style=plastic&logo=gmail&logoColor=black" alt="Email">
   </a>
 </p>
 
