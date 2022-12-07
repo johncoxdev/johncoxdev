@@ -1,10 +1,8 @@
-<p align="center">
-  <img src="https://i.imgur.com/ZUMfLhq.png">
-  <img src="https://i.imgur.com/mS5FGyB.gif">
-  <img src="https://i.imgur.com/ZUMfLhq.png">
-</p>
+<img src="https://i.imgur.com/AAjowd6.png" align="center">
+<img src="https://i.imgur.com/rIMyp0H.gif" align="center">
+<img src="https://i.imgur.com/AAjowd6.png" align="center">
 
-<img align="left" src="https://media.giphy.com/media/FhDnnVIk4jQz4mNkaw/giphy.gif" width="150" height="150">
+<img align="left" src="https://i.imgur.com/EQfBtXh.gif" width="200" height="150">
 
 <h1 align="center">
   Hello, I'm John
@@ -16,22 +14,20 @@ I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Comput
 <!-- [johncoxresume.pdf](https://github.com/programwithjohn/programwithjohn/files/9815334/johncoxresume.pdf) -->
 <p align="left">
   <a href="https://github.com/programwithjohn/programwithjohn/files/9815334/johncoxresume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-9300e8?style=plastic&logo=paper&logoColor=black" alt="Résumé">
+    <img src="https://img.shields.io/badge/Download-Resume-ec7c2f?style=plastic&logo=paper&logoColor=black" alt="Résumé">
   </a>
   <a href="https://github.com/programwithjohn?tab=repositories" target="_blank">
-    <img src="https://img.shields.io/badge/Repos-9300e8?style=plastic&logo=github&logoColor=black" alt="Repository">
+    <img src="https://img.shields.io/badge/Repos-ec7c2f?style=plastic&logo=github&logoColor=black" alt="Repository">
   </a>
   <a href="https://www.linkedin.com/in/johncox-dev/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-9300e8?style=plastic&logo=linkedin&logoColor=black" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-ec7c2f?style=plastic&logo=linkedin&logoColor=black" alt="LinkedIn">
   </a>
   <a href="mailto:john.cox0321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-9300e8?style=plastic&logo=gmail&logoColor=black" alt="Email">
+    <img src="https://img.shields.io/badge/Email-ec7c2f?style=plastic&logo=gmail&logoColor=black" alt="Email">
   </a>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/ZUMfLhq.png"/>
-</p> 
+<img src="https://i.imgur.com/AAjowd6.png" align="center"> 
 
 <table>
   <tr>
@@ -57,7 +53,7 @@ I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Comput
     </td>
     <td align="center" width=360> 
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=12144907810&cover_image=true&theme=novatorem&show_offline=false&bar_color=9300e8&bar_color_cover=false">  
+        <img src="https://spotify-github-profile.vercel.app/api/view?uid=12144907810&cover_image=true&theme=novatorem&show_offline=false&bar_color=ec7c2f&bar_color_cover=false">  
       </a> 
     </td>
     <td align="left" width=360>
@@ -73,9 +69,7 @@ I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Comput
   </tr>
 </table>
 
-<p align="center">
-  <img src="https://i.imgur.com/ZUMfLhq.png">
-</p>  
+<img src="https://i.imgur.com/AAjowd6.png" align="center">
 
 <h3 align="center">
     🌟 GitHub Stats: 🌟
@@ -84,14 +78,12 @@ I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Comput
 <p align="center">
   <div align="center">
     <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=programwithjohn&show_icons=true&theme=midnight-purple">
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=programwithjohn&show_icons=true&theme=darcula">
     </a>
     <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=programwithjohn&theme=midnight-purple&layout=compact">
+      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=programwithjohn&theme=darcula&layout=compact">
     </a>
   </div>
 </p>
 
-<p align="center">
-  <img src="https://i.imgur.com/ZUMfLhq.png">
-</p>  
+<img src="https://i.imgur.com/AAjowd6.png" align="center"> 
