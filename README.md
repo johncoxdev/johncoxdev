@@ -10,9 +10,9 @@
 
 I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in Physics. I have a great love for web development & astronomy! 
 
-<!-- [JohnCoxResume.pdf](https://github.com/programwithjohn/programwithjohn/files/10310375/JohnCoxResume.pdf) -->
+<!-- [JohnCoxResume.pdf](https://github.com/programwithjohn/programwithjohn/files/10473199/JohnCoxResume.pdf) -->
 <p align="left">
-  <a href="https://github.com/programwithjohn/programwithjohn/files/10310375/JohnCoxResume.pdf" target="_blank">
+  <a href="https://github.com/programwithjohn/programwithjohn/files/10473199/JohnCoxResume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-ec7c2f?style=plastic&logo=paper&logoColor=black" alt="Résumé">
   </a>
   <a href="https://github.com/programwithjohn?tab=repositories" target="_blank">
