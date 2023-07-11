@@ -10,12 +10,12 @@
 
 I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in Mathematics. I have a great love for web development & astronomy! 
 
-<!-- [John_Cox_s_Resume.pdf](https://github.com/programwithjohn/programwithjohn/files/11202248/John_Cox_s_Resume.pdf) -->
+<!-- [John_Cox_s_Resume.pdf](https://github.com/johncoxdev/johncoxdev/files/11202248/John_Cox_s_Resume.pdf) -->
 <p align="left">
-  <a href="https://github.com/programwithjohn/programwithjohn/files/11202248/John_Cox_s_Resume.pdf" target="_blank">
+  <a href="https://github.com/johncoxdev/johncoxdev/files/11202248/John_Cox_s_Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-ec7c2f?style=plastic&logo=paper&logoColor=black" alt="Résumé">
   </a>
-  <a href="https://github.com/programwithjohn?tab=repositories" target="_blank">
+  <a href="https://github.com/johncoxdev?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repos-ec7c2f?style=plastic&logo=github&logoColor=black" alt="Repository">
   </a>
   <a href="https://www.linkedin.com/in/johncox-dev/" target="_blank">
@@ -77,10 +77,10 @@ I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Comput
 <p align="center">
   <div align="center">
     <a align="left" href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 src="https://github-readme-stats.vercel.app/api?username=programwithjohn&show_icons=true&theme=darcula">
+      <img width=390 src="https://github-readme-stats.vercel.app/api?username=johncoxdev&show_icons=true&theme=darcula">
     </a>
     <a align="right" href="https://github.com/anuraghazra/github-readme-stats">
-      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=programwithjohn&theme=darcula&layout=compact">
+      <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs/?username=johncoxdev&theme=darcula&layout=compact">
     </a>
   </div>
 </p>
