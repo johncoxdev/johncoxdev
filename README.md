@@ -8,7 +8,7 @@
   Hello, I'm John
 </h1>
 
-I am a Junior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in Mathematics. I have a great love for web development & astronomy! 
+I am a Senior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in Mathematics. I have a great love for web development & astronomy! 
 
 
 <!--- [JohnCoxResume.pdf](https://github.com/johncoxdev/johncoxdev/files/12009754/JohnCoxResume.pdf) -->
