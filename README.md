@@ -10,9 +10,8 @@
 
 I am a Senior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in Mathematics. I have a great love for web development & astronomy! 
 
-
 <p align="left">
-  <a href="https://github.com/johncoxdev/johncoxdev/files/15170855/john_cox_resume.pdf" target="_blank">
+  <a href="https://github.com/johncoxdev/johncoxdev/files/15170887/my_resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Download-Resume-ec7c2f?style=plastic&logo=paper&logoColor=black" alt="Résumé">
   </a>
   <a href="https://github.com/johncoxdev?tab=repositories" target="_blank">
