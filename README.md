@@ -8,7 +8,7 @@
   Hello, I'm John
 </h1>
 
-I am a Senior at [University of Houston](https://www.uh.edu/) majoring in Computer Science & minoring in Mathematics. I have a great love for web development & astronomy! 
+I make some cool stuff at NASA JSC
 
 <p align="left">
   <a href="https://github.com/johncoxdev/johncoxdev/files/15170887/my_resume.pdf" target="_blank">
@@ -51,7 +51,7 @@ I am a Senior at [University of Houston](https://www.uh.edu/) majoring in Comput
     </td>
     <td align="center" width=360> 
       <a href="https://github.com/kittinan/spotify-github-profile">
-        <img src="https://spotify-github-profile.vercel.app/api/view?uid=12144907810&cover_image=true&theme=novatorem&show_offline=false&bar_color=ec7c2f&bar_color_cover=false">  
+        <img src="ttps://spotify-github-profile.kittinanx.com/api/view?uid=12144907810&cover_image=true&theme=novatorem&show_offline=false&bar_color=ec7c2f&bar_color_cover=false">  
       </a> 
     </td>
     <td align="left" width=360>
