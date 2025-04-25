@@ -11,18 +11,12 @@
 I make some cool stuff at NASA JSC
 
 <p align="left">
-  <a href="https://github.com/johncoxdev/johncoxdev/files/15170887/my_resume.pdf" target="_blank">
-    <img src="https://img.shields.io/badge/Download-Resume-ec7c2f?style=plastic&logo=paper&logoColor=black" alt="Résumé">
-  </a>
   <a href="https://github.com/johncoxdev?tab=repositories" target="_blank">
     <img src="https://img.shields.io/badge/Repos-ec7c2f?style=plastic&logo=github&logoColor=black" alt="Repository">
   </a>
-  <a href="https://www.linkedin.com/in/johncox-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/johncoxdev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-ec7c2f?style=plastic&logo=linkedin&logoColor=black" alt="LinkedIn">
-  </a>
-  <a href="mailto:john.cox0321@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-ec7c2f?style=plastic&logo=gmail&logoColor=black" alt="Email">
-  </a>
+  </a
 </p>
 
 <img src="https://i.imgur.com/AAjowd6.png" align="center"> 
